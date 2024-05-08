@@ -1,0 +1,7 @@
+D:\AnthonyEspinoza\ProyectosPruebas\AutoPlan.Facebook.Api\AutoPlan.Facebook.Api\obj\Release\netcoreapp3.1\PubTmp\Out\AutoPlan.Facebook.Api.exe
+D:\AnthonyEspinoza\ProyectosPruebas\AutoPlan.Facebook.Api\AutoPlan.Facebook.Api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\AnthonyEspinoza\ProyectosPruebas\AutoPlan.Facebook.Api\AutoPlan.Facebook.Api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\AnthonyEspinoza\ProyectosPruebas\AutoPlan.Facebook.Api\AutoPlan.Facebook.Api\obj\Release\netcoreapp3.1\PubTmp\Out\AutoPlan.Facebook.Api.dll
+D:\AnthonyEspinoza\ProyectosPruebas\AutoPlan.Facebook.Api\AutoPlan.Facebook.Api\obj\Release\netcoreapp3.1\PubTmp\Out\AutoPlan.Facebook.Api.deps.json
+D:\AnthonyEspinoza\ProyectosPruebas\AutoPlan.Facebook.Api\AutoPlan.Facebook.Api\obj\Release\netcoreapp3.1\PubTmp\Out\AutoPlan.Facebook.Api.runtimeconfig.json
+D:\AnthonyEspinoza\ProyectosPruebas\AutoPlan.Facebook.Api\AutoPlan.Facebook.Api\obj\Release\netcoreapp3.1\PubTmp\Out\AutoPlan.Facebook.Api.pdb
